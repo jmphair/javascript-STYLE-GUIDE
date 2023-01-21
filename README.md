@@ -1,5 +1,8 @@
 # Airbnb JavaScript Style Guide() {
 
+JONATHAN PHAIR'S NOTE: also see this page for 18 Best Practices for Writing Super Readable Code:
+https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
+
 *A mostly reasonable approach to JavaScript*
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
