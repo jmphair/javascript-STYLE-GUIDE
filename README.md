@@ -4,7 +4,7 @@
 🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄
 
 JONATHAN PHAIR'S NOTE: also see this page for 18 Best Practices for Writing Super Readable Code:
-[18 Best Practices] (https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
+https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
 
 🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄
 
